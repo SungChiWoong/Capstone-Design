@@ -1,6 +1,14 @@
 # 딥러닝을 이용한 반려견 감정 분류 앱 개발
 ![image](https://github.com/SungChiWoong/Capstone-Design/assets/123548388/a39288f5-3543-45d9-bd20-9ce504e155e2)
-> 
+
+## 🕒 기간(인원)
+##### 2022.09~2023.05 (4명)
+
+## 🛠️ 사용 기술
+- **Languages:** Python
+- **Stack:** VScode, jupyter notebook
+- **AI:** Neural Prophet, LSTM
+- **DB:** MySQL
 
 ## 활동
 - 약 1만장의 이미지 데이터 라벨링
@@ -12,15 +20,7 @@
 - 해당 모델을 REST API를 이용하여 API 제작
 - Android Studio에서 코틀린를 이용하여 앱에서 작동할 수 있도록 제작
 
-## 목차
-1. 고려 사항
-2. Model
-  <br>2-1. 영상 Model
-  <br>2-2. 음성 Model
-  <br>2-3. 분류 Model
-3. Application
-
-# 고려사항
+## 고려사항
 1) 목적
   * 반려견이 무슨 생각을 하는지 궁금할 때 간단한 촬영으로 심리상태를 알아봅니다.
 
@@ -33,8 +33,15 @@
 * 해당 방법을 활용해 만들기로 결정
 <br>![image](https://github.com/SungChiWoong/Capstone-Design/assets/123548388/9e3035e7-4cfe-41f5-9f0b-56125d2711e5)
 
+## 🖥️ 실행 화면
 
+### 메인 화면
+![image (8)](https://github.com/user-attachments/assets/67c2cf64-146d-4b87-972d-e659a7dbd592)
 
+### 촬영 화면
+![image (10)](https://github.com/user-attachments/assets/29db758a-4d02-46ac-8990-7c621addf234)
 
+### 분석 결과 화면
+![image (11)](https://github.com/user-attachments/assets/b5b4a71e-5e9b-46fe-a614-8e6e30591859)
 
 ### 참조 : https://github.com/ultralytics/yolov5
